@@ -11,4 +11,3 @@
         name: httpd
         autoremove: yes
         state: absent
-~
